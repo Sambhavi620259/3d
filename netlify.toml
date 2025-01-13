@@ -1,0 +1,4 @@
+[[redirects]]
+form = "/*"
+to = "/3d.html"
+status = 200
